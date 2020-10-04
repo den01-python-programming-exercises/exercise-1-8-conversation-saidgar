@@ -1,10 +1,9 @@
 def main():
     #write your code below this line
-    first = input("Greetings! How are you doing?")
-    print(first)
-    second = input("Oh, how interesting. Tell me more!")
-    print(second)
-    third = input("Thanks for sharing!")
-    print(third )
+    print("Greetings! How are you doing?")
+    first = input()
+    print("Oh, how interesting. Tell me more!")
+    second = input()
+    print("Thanks for sharing!")
 if __name__ == '__main__':
     main()
